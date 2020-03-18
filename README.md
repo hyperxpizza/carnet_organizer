@@ -18,3 +18,6 @@ When adding the carnet, program will generate a qr code with unique id of the ca
 ![alt text](https://raw.githubusercontent.com/hyperxpizza/carnet_organizer/master/img/main.png)
 
 ![alt text](https://raw.githubusercontent.com/hyperxpizza/carnet_organizer/master/img/add_img.png)
+
+## TODO
+Printing labels with BrotherQL printers (QL-700)
