@@ -3,6 +3,9 @@ GUI for organizing your carnets with qr codes.
 
 ## Installation
 ```bash
+git clone https://github.com/hyperxpizza/carnet_organizer
+virtualenv -p python3 venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
