@@ -4,7 +4,7 @@ brother-ql==0.9.4
 click==7.1.1
 future==0.18.2
 packbits==0.6
-Pillow==7.0.0
+Pillow==9.0.1
 pkg-resources==0.0.0
 pytz==2019.3
 pyusb==1.0.2
